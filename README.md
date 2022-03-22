@@ -1,1 +1,1 @@
-# student-loan-repayment-calculator
+# Student loan repayment calculator
